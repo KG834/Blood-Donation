@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "blood-donation-app",
+    "slug": "snack-cdd92629-e036-46b2-b321-edb8218397cc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./trombo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.skelaton_boss.snackcdd92629e03646b2b321edb8218397cc"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7a8d65a3-4a2c-487f-8fd2-3382c9cce63e"
+      }
+    }
+  }
+}
